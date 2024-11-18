@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sabiha Khan
+- 👀 I’m interested in development Learning
+- 🌱 I’m currently learning Java Langauge
+- 💞️ I’m looking to collaborate on diffrent project related to java
+- 📫 How to reach me using mail sabihafarooq790@gmail.com
